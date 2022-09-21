@@ -9,7 +9,7 @@ void vip(void);
 void verify(void);
 void rerun(void);
 
-// Simple Trains Book Tickets System by Mohamed Mostafa
+// Simple Trains Tickets Booking System by Mohamed Mostafa
 
 int main(void)
 {
